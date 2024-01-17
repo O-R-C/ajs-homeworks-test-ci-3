@@ -1,6 +1,3 @@
-// TODO: write your code here
-import sum from './basic';
+import getLevel from "./get.Level";
 
-console.log('worked');
-
-console.log(sum([1, 2]));
+console.log(getLevel(1));
